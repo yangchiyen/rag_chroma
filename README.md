@@ -50,12 +50,14 @@ openai_api_key =
 
 ## 文件結構
 專案的主要文件結構如下：
+```bash
 .
 ├── main.py                 # 主程序文件
 ├── vector_store.py         # VectorStore 類和相關的數據庫操作
 ├── config.py               # 配置管理
 ├── requirements.txt        # 依賴包列表
 └── config.ini              # 配置文件
+```
 
 ## 貢獻指南
 歡迎貢獻！請遵循以下步驟提交貢獻：
